@@ -27,11 +27,13 @@ xlrd  ===          注意使用版本 1.2.0
 
 |——commonTest  公用方法
 
-|——main.bat  批处理文件，用来做计划任务
+|——main.bat  执行main.py的批处理文件，用来做计划任务
+
+|——deleteImage.bat  执行删除生成的图片文件的批处理文件，用来做计划任务
 
 |——main.py  执行入口
 
-|————test_0x_xxx.py   测试用例
+|——test_0x_xxx.py   测试用例
 
 |——test_999_close.py  关闭浏览器
 
